@@ -503,27 +503,17 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs07
 #EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_460.png",OUTDOOR (V+)
 https://nyanv-live-cdn.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd
 
-#EXTINF:-1 tvg-name="DISCOVERY CHANNEL" tvg-logo="https://hometv.pw/logo/knowledge/discovery.png" group-title="KNOWLEDGE",DISCOVERY CHANNEL (F*)
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch29%29/index.m3u8
-
 #EXTINF:-1 tvg-name="DISCOVERY CHANNEL" tvg-logo="https://hometv.pw/logo/knowledge/discovery.png" group-title="KNOWLEDGE",DISCOVERY CHANNEL (L*)
 https://raw.githubusercontent.com/djonyttnt/m3ux/main/discoverychannel.m3u8
 
 EXTINF:-1 tvg-name="DISCOVERY CHANNEL" tvg-logo="https://hometv.pw/logo/knowledge/discovery.png" group-title="KNOWLEDGE",DISCOVERY HD 
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch29%29/index.m3u8
 
-#EXTINF:-1 tvg-name="DISCOVERY CHANNEL" tvg-logo="https://hometv.pw/logo/knowledge/discovery.png" group-title="KNOWLEDGE",DISCOVERY HD 
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/discoverychannel.m3u8
-
 #EXTINF:-1 group-title="KNOWLEDGE" tvg-id="discoveryasia.sg" tvg-logo="https://images.squarespace-cdn.com/content/v1/62821a0e46c8af53df7dc8ac/4333a2d2-c114-426d-9e41-00fc0fd1bc97/Discovery+Asia",Discovery Asia 
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch302%29/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKAixj-Cg_3Ad8xIAuW9jN5ztcFrssfJasgQ&usqp=CAU" group-title="KNOWLEDGE", Wild Earth
 https://wildearth-roku.amagi.tv/masterR720P.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq0AD-p4XtRJvvI8dUL2eMkVIqf4oFybVp0A&usqp=CAU" group-title="KNOWLEDGE", Amazon Sat
-https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
- 
 
 #EXTINF:-1 tvg-name="ANIMAL PLANET" tvg-logo="https://hometv.pw/logo/knowledge/animal_planet.png" group-title="KNOWLEDGE",ANIMAL PLANET (L*)
 https://raw.githubusercontent.com/djonyttnt/m3ux/main/animalplanet.m3u8
@@ -1160,35 +1150,6 @@ https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0118/DASH/V0118.mpd
 
 
 
-
-
-
-
-
-
-
-
-=========================================== UNKNOWN MOVIES ===========================================
-
-
-#EXTINF:-1 group-title="UNKNOWN MOVIES",Unknown_50
-http://livex.pop-app.live/s4n/poplive/ch502/playlist.m3u8
-#EXTINF:-1 group-title="UNKNOWN MOVIES",Unknown_51
-http://livex.pop-app.live/s4n/poplive/ch503/playlist.m3u8
-#EXTINF:-1 group-title="UNKNOWN MOVIES",Unknown_59
-http://livex.pop-app.live/s4n/poplive/ch514/playlist.m3u8
-#EXTINF:-1 group-title="UNKNOWN MOVIES",Unknown_72
-http://livex.pop-app.live/s4n/poplive/ch529/playlist.m3u8
-#EXTINF:-1 group-title="UNKNOWN MOVIES",Unknown_74
-http://livex.pop-app.live/s4n/poplive/ch531/playlist.m3u8
-#EXTINF:-1 group-title="UNKNOWN MOVIES",Unknown_75
-http://livex.pop-app.live/s4n/poplive/ch533/playlist.m3u8
-#EXTINF:-1 group-title="UNKNOWN MOVIES",Unknown_81
-http://livex.pop-app.live/s4n/poplive/ch546/playlist.m3u8
-#EXTINF:-1 group-title="UNKNOWN MOVIES",Unknown_86
-http://livex.pop-app.live/s4n/poplive/ch553/playlist.m3u8
-#EXTINF:-1 group-title="UNKNOWN MOVIES",Unknown_103
-http://livex.pop-app.live/s4n/poplive/ch574/playlist.m3u8
 
 
 

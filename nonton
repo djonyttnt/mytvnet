@@ -759,22 +759,22 @@ https://testfunctionlive.mncnow.id/live/eds/Arirang/sa_dash_vmx/Arirang.mpd
 =========================================== INDO MOVIES ===========================================
 
 #EXTINF:-1 tvg-name="BIOSKOP INDONESIA" tvg-logo="https://hometv.pw/logo/movies/bioskop_indonesia.png" group-title="MOVIES",BIOSKOP INDONESIA
-##http://iptvtree.net:8080/F14995/a84c0963/264801
+http://iptvtree.net:8080/F14995/a84c0963/264801
 
 #EXTINF:-1 tvg-id="" tvg-name="FLIK" tvg-logo="https://hometv.pw/logo/movies/flik.png" group-title="MOVIES",FLIK
-##http://iptvtree.net:8080/F14995/a84c0963/165095
+http://iptvtree.net:8080/F14995/a84c0963/165095
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 tvg-name="IMC" tvg-logo="https://hometv.pw/logo/movies/imc.png" group-title="MOVIES",IMC (V+)
-##https://testfunctionlive.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
+https://testfunctionlive.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
 
 #EXTINF:-1 tvg-logo="https://hometv.pw/logo/movies2/bioskop_indonesia.png" group-title="MOVIES",BIOSKOP INDONESIA (MY)
-https://play.gachor99.my.id:443/NcPfpppNKd/hmtv_lite/127
+#https://play.gachor99.my.id:443/NcPfpppNKd/hmtv_lite/127
 
 #EXTINF:-1 tvg-logo="https://hometv.pw/logo/movies2/flik.png" group-title="MOVIES",FLIK (MY)
-https://play.gachor99.my.id:443/NcPfpppNKd/hmtv_lite/128
+#https://play.gachor99.my.id:443/NcPfpppNKd/hmtv_lite/128
 
 #EXTINF:-1 tvg-logo="https://hometv.pw/logo/movies2/imc.png" group-title="MOVIES",IMC (V+)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -832,15 +832,15 @@ https://melon-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/
 
 //========================================================================
 #EXTINF:-1 tvg-logo="https://hometv.pw/logo/movies2/hbo.png" group-title="MOVIES",HBO HD (MY)
-https://play.gachor99.my.id:443/NcPfpppNKd/hmtv_lite/1
+#https://play.gachor99.my.id:443/NcPfpppNKd/hmtv_lite/1
 #EXTINF:-1 tvg-logo="https://hometv.pw/logo/movies2/hbo_hits.png" group-title="MOVIES",HBO HITS HD (MY)
-https://play.gachor99.my.id:443/NcPfpppNKd/hmtv_lite/2
+#https://play.gachor99.my.id:443/NcPfpppNKd/hmtv_lite/2
 #EXTINF:-1 tvg-logo="https://hometv.pw/logo/movies2/hbo_sign.png" group-title="MOVIES",HBO SIGN HD (MY)
 https://play.gachor99.my.id:443/NcPfpppNKd/hmtv_lite/3
 #EXTINF:-1 tvg-logo="https://hometv.pw/logo/movies2/hbo_family.png" group-title="MOVIES",HBO FAMILY HD (MY)
 https://play.gachor99.my.id:443/NcPfpppNKd/hmtv_lite/4
 #EXTINF:-1 tvg-logo="https://hometv.pw/logo/movies2/cinemax.png" group-title="MOVIES",CINEMAX HD (MY)
-https://play.gachor99.my.id:443/NcPfpppNKd/hmtv_lite/5
+#https://play.gachor99.my.id:443/NcPfpppNKd/hmtv_lite/5
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz

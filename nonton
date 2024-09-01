@@ -778,23 +778,37 @@ https://cempedak-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_v
 
 
 
-//========================================================================
-//copy right by,@hometv menampilkan playlist >>> BIOSKOP 
-//========================================================================
-#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/movie/bioskop247.png" group-title="MOVIES ",BIOSKOP ACTION
-https://play-gachor.xyz/htv@lite/kjTECpmDmq/68
-#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/movie/bioskop247.png" group-title="MOVIES ",BIOSKOP CHINA
-https://play-gachor.xyz/htv@lite/kjTECpmDmq/69
-#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/movie/bioskop247.png" group-title="MOVIES ",BIOSKOP BOLLYWOOD
-https://play-gachor.xyz/htv@lite/kjTECpmDmq/70
-#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/movie/bioskop247.png" group-title="MOVIES ",BIOSKOP HORROR
-https://play-gachor.xyz/htv@lite/kjTECpmDmq/71
-#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/movie/bioskop247.png" group-title="MOVIES ",BIOSKOP INDO
-https://play-gachor.xyz/htv@lite/kjTECpmDmq/72
-
-
-
 =========================================== MOVIES SUB INDO ===========================================
+
+#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/movie/hbo.png" group-title="MOVIES",HBO HD
+https://play-gachor.xyz/htv@lite/kjTECpmDmq/39
+
+#EXTINF:-1 tvg-id="HBO HD.sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://seeklogo.com/images/H/hbo-logo-9BCB43E157-seeklogo.com.png" group-title="MOVIES",HBO (MAXSTREAM)
+http://playtv.my.id/play/freemium_hbo.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/movie/hbo_hits.png" group-title="MOVIES",HBO HITS HD
+https://play-gachor.xyz/htv@lite/kjTECpmDmq/40
+
+#EXTINF:-1 tvg-id="HBO Hits (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="MOVIES",HBO Hits (MAXSTREAM)
+http://playtv.my.id/play/freemium_hbohits.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/movie/hbo_sign.png" group-title="MOVIES",HBO SIGN HD
+https://play-gachor.xyz/htv@lite/kjTECpmDmq/41
+
+#EXTINF:-1 tvg-id="HBO Signature (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="MOVIES",HBO Signature (MAXSTREAM)
+http://playtv.my.id/play/freemium_hbosig.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/movie/hbo_family.png" group-title="MOVIES",HBO FAMILY HD
+https://play-gachor.xyz/htv@lite/kjTECpmDmq/42
+
+#EXTINF:-1 tvg-id="HBO Family (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://www.liblogo.com/img-logo/hb7524h5d2-hbo-family-logo-hbo-family-logopedia-.png" group-title="MOVIES",HBO Family (MAXSTREAM)
+http://playtv.my.id/play/freemium_hbofam.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/movie/cinemax.png" group-title="MOVIES",CINEMAX HD
+https://play-gachor.xyz/htv@lite/kjTECpmDmq/43
+
+#EXTINF:-1 tvg-id="CINEMAX (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="MOVIES",Cinemax (MAXSTREAM)
+http://playtv.my.id/play/freemium_cinemax.m3u8
 
 
 
@@ -807,7 +821,7 @@ https://play-gachor.xyz/htv@lite/kjTECpmDmq/72
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="HBO HD.sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml.gz" tvg-logo="https://seeklogo.com/images/H/hbo-logo-9BCB43E157-seeklogo.com.png" group-title="MOVIES",HBO
-https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856b6088c3016b87d64b970b53/manifest.mpd
+#https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856b6088c3016b87d64b970b53/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -817,7 +831,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856b6088c3016b87d64b9
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="HBO Hits (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml.gz" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="MOVIES",HBO Hits
-https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
+#https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -827,7 +841,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d054fbf6
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="HBO Family (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml.gz" tvg-logo="https://www.liblogo.com/img-logo/hb7524h5d2-hbo-family-logo-hbo-family-logopedia-.png" group-title="MOVIES",HBO Family
-https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
+#https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -837,7 +851,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d055927f
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="HBO Signature (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml.gz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="MOVIES",HBO Signature
-https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
+#https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -847,7 +861,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0c
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="CINEMAX (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml.gz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="MOVIES",Cinemax
-https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
+#https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
 
 //========================================================================
 
@@ -869,6 +883,19 @@ https://cempedak-live-cdn.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/Galaxy
 #EXTINF:-1 tvg-name="ROCK ACTION" tvg-logo="https://hometv.pw/logo/movies/rock_action.png" group-title="MOVIES",ROCK ACTION (V+)
 https://cempedak-live-cdn.mncnow.id/live/eds/Rockaction/sa_dash_vmx/Rockaction.mpd
 
+//========================================================================
+//copy right by,@hometv menampilkan playlist >>> BIOSKOP 
+//========================================================================
+#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/movie/bioskop247.png" group-title="MOVIES ",BIOSKOP ACTION
+https://play-gachor.xyz/htv@lite/kjTECpmDmq/68
+#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/movie/bioskop247.png" group-title="MOVIES ",BIOSKOP CHINA
+https://play-gachor.xyz/htv@lite/kjTECpmDmq/69
+#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/movie/bioskop247.png" group-title="MOVIES ",BIOSKOP BOLLYWOOD
+https://play-gachor.xyz/htv@lite/kjTECpmDmq/70
+#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/movie/bioskop247.png" group-title="MOVIES ",BIOSKOP HORROR
+https://play-gachor.xyz/htv@lite/kjTECpmDmq/71
+#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/movie/bioskop247.png" group-title="MOVIES ",BIOSKOP INDO
+https://play-gachor.xyz/htv@lite/kjTECpmDmq/72
 
 #EXTINF:-1 tvg-id="" tvg-name="Bioskop China" tvg-logo="" group-title="MOVIES",Bioskop China
 #https://s.id/21Dcq-bioskopcina|User-Agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
